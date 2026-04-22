@@ -1,0 +1,23 @@
+# Fichiers logs
+*.log
+
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db
+
+# VS Code
+.vscode/
+
+# Node.js
+node_modules/
+
+# Fichiers temporaires
+*.tmp
+*.swp
+*~
+
+# Navigateurs
+*.suo
+*.user
