@@ -286,5 +286,5 @@ Contact pour licence commerciale : wzeddini@formation-iso27001.tn
 <div align="center">
   <strong>ISO/IEC 27001:2022 Training Platform v2.0</strong><br>
   Fait avec ❤️ pour la communauté francophone de la cybersécurité<br>
-  <sub>© 2025 Wissem ZEDDINI — CC BY-NC-SA 4.0</sub>
+  <sub>© 2026 Wissem ZEDDINI — CC BY-NC-SA 4.0</sub>
 </div>
