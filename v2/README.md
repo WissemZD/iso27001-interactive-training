@@ -106,7 +106,7 @@ ISO27001_Formation_V2.html  (~1 820 lignes)
 ```javascript
 const CFG = {
   PASS    : 'ISO2024!',       // Mot de passe accès
-  WM_PASS : 'WZEDDINI2025!',  // Mot de passe filigrane
+
   AUTHOR  : 'Wissem ZEDDINI',
   SEP     : ';',              // Séparateur CSV Excel FR
   IDLE_MS : 5 * 60 * 1000,   // Pause timer si inactif 5 min
@@ -164,5 +164,5 @@ Usage pédagogique personnel uniquement — Usage commercial interdit sans autor
 <div align="center">
   <strong>ISO/IEC 27001:2022 Training Platform v2.0</strong><br>
   Fait avec ❤️ pour la communauté francophone de la cybersécurité<br>
-  <sub>© 2025 Wissem ZEDDINI — CC BY-NC-SA 4.0</sub>
+  <sub>© 2026 Wissem ZEDDINI — CC BY-NC-SA 4.0</sub>
 </div>
