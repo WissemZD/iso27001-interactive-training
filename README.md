@@ -84,9 +84,10 @@ Pour les suggestions de contenu normatif, merci de citer la clause ISO 27001:202
 ---
 ## 👤 Auteur
 
-**Wissem ZEDDINI** - RSSI/DSI en Tunisie  
-Idée originale & développement assisté par IA  
+**Wissem ZEDDINI** - Professionnel des systèmes d’information en environnement académique  
+Idée originale & développement avec appui ponctuel d’outils d’IA générative, dans une logique de validation et d’appropriation du code.
 (https://github.com/WissemZD)
+Contenus pédagogiques basés sur une interprétation et une synthèse des principes de la norme, sans reproduction du texte officiel.
 
 ---
 ## 🙏 Crédits & Remerciements
